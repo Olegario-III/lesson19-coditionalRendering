@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+input {
+  margin: 0 0.5rem;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+}
+
+.empty-view {
+  color: #777;
+}
+
+.user-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.user-list li {
+  margin: 0.5rem 0;
+}
